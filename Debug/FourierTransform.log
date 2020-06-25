@@ -1,0 +1,3 @@
+﻿  FourierTransform.cpp
+c:\users\admin\desktop\work\c++\src\fouriertransform\fouriertransform\fouriertransform.cpp(52): warning C4101: 'generated': unreferenced local variable
+  FourierTransform.vcxproj -> C:\Users\admin\Desktop\work\c++\src\FourierTransform\Debug\FourierTransform.exe
